@@ -1,0 +1,1 @@
+Repositoryler guncellenecek. Trigger olayi db e birakilmayacak. Direkt olarak LINQ sorgulari ile yapilacak. 
